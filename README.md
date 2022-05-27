@@ -10,3 +10,4 @@ put it into a Flatpak?
 ### References
 
 * [VMWare Forum: Flatpak?](https://communities.vmware.com/t5/Horizon-Desktops-and-Apps/Package-VMWare-Horizon-View-as-a-Flatpak/m-p/501293)
+* [Tutorial](https://docs.flatpak.org/en/latest/first-build.html)
